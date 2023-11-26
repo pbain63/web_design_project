@@ -1,6 +1,6 @@
 # web_design_project 
 
-Created a simple responsive website with 'Float'(HTML, CSS, Flex)
+Created a simple responsive website with 'Float, Media Query'(HTML, CSS, Flex)
 
 
 
