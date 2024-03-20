@@ -1,10 +1,14 @@
 # web_design_project 
 
-Created a simple responsive website with 'Float, Media Query'(HTML, CSS, Flex)
+Create a simple responsive website
 
 
 
 
-Preview:
+Live Preview Link:
 
-https://rawcdn.githack.com/pbain63/web_design_project/e197762e9a3ea7b528ed390af821c4e50c3230fc/index.html
+https://pbain63.github.io/web_design_project
+
+Technology:
+
+HTML5, CSS, Flexbox
